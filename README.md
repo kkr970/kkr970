@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=aaffff&height=200&section=header&text=Shin%20Icksu-kkr970&fontSize=70&fontColor=404040)
 
-Email link <a href="mailto:kkr970@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+Email kkr970@gmail.com
 
 Interest
 -----------
